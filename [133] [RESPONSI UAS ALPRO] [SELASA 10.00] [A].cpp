@@ -100,26 +100,17 @@ int main (){
     cout << "|--------------------------------------------------------|" << endl;
     
     
-    ofstream file ("hasil_cari_judul.txt", ios::app);
+ //   ofstream file ("hasil_cari_judul.txt", ios::app);
  //   ifstream file ("hasil_cari_judul.txt", ios::app);
-    if(file.is_open()){
-    	cout << "Data nerhasil di simpan";
-	}else{
-		cout << "EROR";
-	}
+ //   if(file.is_open()){
+ //   	cout << "Data nerhasil di simpan";
+//	}else{
+//		cout << "EROR";
+//	}
     
-    void simpanArray(){
-    	for(int i = 0; n < i; i++)
-	}
+ //   void simpanArray(){
+ //   	for(int i = 0; n < i; i++)
+//	}
 
-	
-	
-	
-	
-	
-	
-	
-	
-	
 	return 0;
 }
